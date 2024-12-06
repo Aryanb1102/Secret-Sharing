@@ -55,10 +55,6 @@ Usage
     *   **Uses Beaver Triples**: Demonstrates secure multiplication of shares using Beaver Triples.
         
 
-### Sample Output
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   yamlCopy codeGenerated Shares:  Share 1: 1234  Share 2: 3084  Share 3: 2512  Share 4: 5774  Share 5: 3530  Reconstructed Secret from shares [1, 2, 3]: 1234  Sum of Share 1 and Share 2: (1, 4318)  Share 1 + Public Value (100): (1, 1334)  Share 1 * Multiplier (5): (1, 6170)  Product of Share 1 and Share 2: (1, 3084)  Generated Beaver Triple:  a: 6230, b: 2741, c: 1574  Product of Share 1 and Share 2 using Beaver Triple: (1, 1574)   `
-
 _Note_: The actual share values will vary with each run due to the random generation of polynomial coefficients and Beaver Triples.
 
 Code Structure
